@@ -17,6 +17,7 @@ branches:
         - communities/ui-feeds-components
         - communities/ui-lightning-community
         - communities/webruntime
+        - todom/webruntime
         - lwc/lwc-platform
         - nrkruk/lwc-dev-core
         - ris-gpta/core_via_components
